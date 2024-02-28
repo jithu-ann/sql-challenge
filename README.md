@@ -1,6 +1,6 @@
 # sql-challenge
 Data Modeling
-Inspect the CSV files, and then sketch an Entity Relationship Diagram of the tables. To create the sketch, feel free to use a tool like QuickDBDLinks to an external site..
+Inspect the CSV files, and then sketch an Entity Relationship Diagram of the tables.
 
 Data Engineering
 Use the provided information to create a table schema for each of the six CSV files. Be sure to do the following:
